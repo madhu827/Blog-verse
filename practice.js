@@ -1,4 +1,5 @@
 console.log("Hello world,madhu kumar")
+const a=5;
 let name ="madhu";
 console.log(name);
 let num=28;

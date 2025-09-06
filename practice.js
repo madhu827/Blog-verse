@@ -21,11 +21,13 @@ console.log(arr[0]);
 console.log(typeof arr);
 
 let person ={
-    name:"madhu",
+    name:"madhu",// key value pairs
     age:21
 
     
 }
+console.log(person["name"]);
+console.log(person["age"])
 console.log(person.name);
 console.log(person.age);
 console.log(typeof person);
